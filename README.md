@@ -44,6 +44,6 @@ TTS(Text-to-Speech) 모델은 시스템이 생성한 텍스트 답변을 음성�
 
 `pip install -r requirements.txt`
 
-## 모델 로드 방법
+# 모델 파일 다운로드 
 
-`model` 폴더에 훈련된 모델 파일 `model.pth`가 포함되어 있습니다. 
+현재 프로젝트의 릴리즈 링크로 이동하시면, 모델 파일을 찾아 다운로드해주세요. 
